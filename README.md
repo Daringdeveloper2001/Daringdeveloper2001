@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Daringdeveloper2024
-- 👀 I’m interested in data science and cybersecurity 
-- 🌱 I’m currently learning c,python 
+- 👀 I’m interested in software development 
 - 💞️ I’m looking to collaborate on hackathons and competitive programming 
 - 📫 you can reach me ...
 
