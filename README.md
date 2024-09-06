@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daringdeveloper2024
+- 👋 Hi, It's CHANDAN RAJ 
 - 👀 I’m interested in software development 
 - 💞️ I’m looking to collaborate on hackathons and competitive programming 
 - 📫 you can reach me ...
